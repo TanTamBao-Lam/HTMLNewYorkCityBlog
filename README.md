@@ -52,13 +52,13 @@ Within `<aside>`, create a `<p>` element containing the following information:
 10. New York is known for its amazing food. Our blog should list some of the top food options in NYC. You can do this by creating an ordered list!
 Create an ordered list by using the `<ol>` element within the `<aside>` element. In an ordered list the first item is ranked one, the second item is ranked two and so on.
 The ordered list should contain the following seven items in this order:
-  1. Pizza
-  2. Bagels
-  3. Burgers and Sandwiches
-  4. Ramen
-  5. Tacos
-  6. Pasta
-  7. Desserts
+      1. Pizza
+      2. Bagels
+      3. Burgers and Sandwiches
+      4. Ramen
+      5. Tacos
+      6. Pasta
+      7. Desserts
 **Note**: Save your work to see your progress.
 
 ### Media
