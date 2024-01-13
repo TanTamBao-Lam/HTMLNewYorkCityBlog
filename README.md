@@ -92,8 +92,8 @@ Inside the `<audio>` tag, insert an audio file with the following URL as the `sr
 16. At the bottom of a page, you can add a footer to credit you for the creation of this blog!
 Create a `<footer>` element with an id of _“about”_ under the closing `</main>` tag.
 Inside, add the following content:
-* A <p> tag with “Posted by:” followed by your name.
-* A <p> tag that provides one type of contact information for people to reach you at. For example:
+* A `<p>` tag with _“Posted by:” followed by your name_.
+* A `<p>` tag that provides _one type of contact information_ for people to reach you at. For example:
 > Contact information: Blogger@NYC.com
 
 The Endgame!
